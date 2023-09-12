@@ -1,3 +1,9 @@
-# Flask
+# Tuesday Afternoon Mini Session
 
-Write your readme here!
+Relationships
+
+Sequence of commands with the database
+
+Seeing things happen - how to check the db and test
+
+Building models --> what are the essential components
